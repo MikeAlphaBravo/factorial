@@ -1,0 +1,4 @@
+Behavior      Input Example       Output Example
+Input is 0    0                   1
+Input is !=0  1, -1               120, 40
+Input is empty or NaN  Q          Enter a number / NOTZ zA NUvMETT
